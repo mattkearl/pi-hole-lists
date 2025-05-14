@@ -1,0 +1,100 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start 
+
+#=====================================
+# Title: 
+
+0.0.0.0 ad-assets.futurecdn.net
+0.0.0.0 ahrefs.com
+0.0.0.0 ai-humanizer.com
+0.0.0.0 ai.tenorshare.com
+0.0.0.0 aiundetect.com
+0.0.0.0 aihumanize.com
+0.0.0.0 aihumanize.io
+0.0.0.0 aihumanizer.ai
+0.0.0.0 aitextconverter.com
+0.0.0.0 app.aiseo.ai
+0.0.0.0 askyourpdf.com
+0.0.0.0 authorprivacy.com
+0.0.0.0 bypass.hix.ai
+0.0.0.0 bypassai.ai
+0.0.0.0 bypassgpt.ai
+0.0.0.0 bypassgpt.co
+0.0.0.0 decopy.ai
+0.0.0.0 editpad.org
+0.0.0.0 essaydone.ai
+0.0.0.0 gpthuman.ai
+0.0.0.0 gravitywrite.com
+0.0.0.0 grubby.ai
+0.0.0.0 gptzero.me
+0.0.0.0 humaniser.ai
+0.0.0.0 humanizeai.com
+0.0.0.0 humanizeai.io
+0.0.0.0 humanizeai.pro
+0.0.0.0 humanizeaitext.ai
+0.0.0.0 humanizeaitext.org
+0.0.0.0 humanizer.ai
+0.0.0.0 humanizer.pro
+0.0.0.0 humanizer.org
+0.0.0.0 humanizerpro.ai
+0.0.0.0 humanizerai.ai
+0.0.0.0 justdone.com
+0.0.0.0 kripeshadwani.com
+0.0.0.0 monica.im
+0.0.0.0 netus.ai
+0.0.0.0 notegpt.io
+0.0.0.0 originality.ai
+0.0.0.0 paraphraser.io
+0.0.0.0 phrasly.ai
+0.0.0.0 prepostseo.com
+0.0.0.0 quillbot.com
+0.0.0.0 rephrase.info
+0.0.0.0 rephrasy.ai
+0.0.0.0 rewriterpro.ai
+0.0.0.0 scribbr.com
+0.0.0.0 smodin.io
+0.0.0.0 stealthgpt.ai
+0.0.0.0 stealthwriter.ai
+0.0.0.0 storychief.io
+0.0.0.0 surgegraph.io
+0.0.0.0 surferseo.com
+0.0.0.0 summarizer.org
+0.0.0.0 the-ghost-ai.com
+0.0.0.0 thehumanizer.ai
+0.0.0.0 thepromptindex.com
+0.0.0.0 texthumanizer.org
+0.0.0.0 twaingpt.com
+0.0.0.0 twixify.com
+0.0.0.0 undetectable.ai
+0.0.0.0 undetectableai.pro
+0.0.0.0 upass.ai
+0.0.0.0 walterwrites.ai
+0.0.0.0 writehuman.ai
+0.0.0.0 wordtune.com
+0.0.0.0 writesonic.com
+0.0.0.0 zerogpt.org
