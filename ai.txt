@@ -1,0 +1,79 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start 
+
+#=====================================
+# Title: 
+
+0.0.0.0 openai.com
+0.0.0.0 chatgpt.com
+0.0.0.0 anthropic.com
+0.0.0.0 claude.ai
+0.0.0.0 ai21.com
+0.0.0.0 cohere.com
+0.0.0.0 huggingface.co
+0.0.0.0 stability.ai
+0.0.0.0 perplexity.ai
+0.0.0.0 alephalpha.com
+0.0.0.0 mistral.ai
+0.0.0.0 x.ai
+0.0.0.0 deepmind.com
+0.0.0.0 google.com
+0.0.0.0 bard.google.com
+0.0.0.0 qwen.ai
+0.0.0.0 openassistant.org
+0.0.0.0 inflection.ai
+0.0.0.0 character.ai
+0.0.0.0 jasper.ai
+0.0.0.0 you.com
+0.0.0.0 runpod.io
+0.0.0.0 replicate.com
+0.0.0.0 copy.ai
+0.0.0.0 synthesia.io
+0.0.0.0 runwayml.com
+0.0.0.0 filmora.wondershare.com
+0.0.0.0 opusclip.com
+0.0.0.0 fathom.video
+0.0.0.0 nyota.ai
+0.0.0.0 n8n.io
+0.0.0.0 deepresearch.ai
+0.0.0.0 notebooklm.google.com
+0.0.0.0 rytr.me
+0.0.0.0 sudowrite.com
+0.0.0.0 wordtune.com
+0.0.0.0 vistasocial.com
+0.0.0.0 feedhive.io
+0.0.0.0 scribehow.com
+0.0.0.0 langchain.com
+0.0.0.0 single-store.com
+0.0.0.0 tensorflow.org
+0.0.0.0 llamaindex.ai
+0.0.0.0 grok.com
+0.0.0.0 gemini.google.com
+0.0.0.0 deepseek.com
+0.0.0.0 llama.com
+
